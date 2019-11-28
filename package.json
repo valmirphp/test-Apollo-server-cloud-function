@@ -1,0 +1,11 @@
+{
+  "name": "test-apollo-server-cloud-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apollo-server-cloud-functions": "^2.9.12",
+    "graphql": "^14.5.8"
+  }
+}
